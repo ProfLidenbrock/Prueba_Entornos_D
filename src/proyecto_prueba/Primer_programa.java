@@ -8,6 +8,7 @@ public class Primer_programa {
 		variable++;
 		variable = variable + 10;
 		System.out.println("Variable vale: " + variable);
+		System.out.println("La raíz cuadrada de " + variable + " es: " + Math.sqrt(variable));
 
 		int contador = 0;
 		while (contador < 10) {
