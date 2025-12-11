@@ -4,6 +4,8 @@ public class Primer_programa {
 
 	public static void main(String[] args) {
 		
+		// ANTES DE LA EVALUACION 
+		
 		int variable = 5;
 		variable++;
 		variable = variable + 10;
