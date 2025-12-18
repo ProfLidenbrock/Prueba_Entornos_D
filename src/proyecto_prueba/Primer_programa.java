@@ -4,7 +4,9 @@ public class Primer_programa {
 
 	public static void main(String[] args) {
 		
-		// ANTES DE LA EVALUACION 
+		// ANTES DE LA EVALUACION
+		
+		// mientras hablo con jaime
 		
 		int variable = 5;
 		variable++;
