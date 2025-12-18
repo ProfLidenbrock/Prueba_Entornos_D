@@ -6,7 +6,7 @@ public class Primer_programa {
 		
 		// ANTES DE LA EVALUACION
 		
-		// mientras hablo con jaime
+		// mientras hablo con jaime 
 		
 		int variable = 5;
 		variable++;
